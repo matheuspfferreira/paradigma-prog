@@ -45,6 +45,3 @@ Abaixo está um exemplo de uma vaga **real** encontrada em julho de 2026 [1], de
     *   3+ anos de experiência intensiva especificamente com o ecossistema e desenvolvimento em **Rust**.
 *   **Responsabilidades:** Desenhar, desenvolver e manter aplicações de alta performance, seguras e escaláveis. Espera-se forte conhecimento de programação de sistemas (systems programming).
 *   **Por que o Rust?** O cargo reflete a tendência do mercado em utilizar Rust em produtos onde segurança (principalmente segurança de memória contra vulnerabilidades comuns) e a alta performance (baixa latência) são vitais para a infraestrutura de segurança cibernética.
-
----
-*Informações e valores compilados com base no mercado atual do segundo semestre de 2026.*
